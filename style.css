@@ -1,0 +1,27 @@
+#main{
+    height: 100%;
+    width: 100%;
+    padding: 5%;   
+}
+#Resume{
+    text-align: center;
+}
+#Header{
+    text-align: left;
+    table-layout: auto;
+}
+img{
+    width: 140px;
+    float: right;
+    margin-left: 250px;
+    border-radius: 50%;
+}
+#continer{
+    position: relative;
+    text-align: left;
+    
+}
+h3{
+    text-align: left;
+    background-color: cornsilk;
+}
